@@ -1,0 +1,139 @@
+{
+    "contact": {
+      "pageTitle": "Contáctanos",
+      "pageDescription": "Trabajemos juntos. No podemos esperar a saber de ti.",
+      "pageIntro": {
+        "eyebrow": "Contáctanos",
+        "title": "Trabajemos juntos",
+        "description": "No podemos esperar a saber de ti."
+      },
+      "contactForm": {
+        "workInquiries": "Consultas de trabajo",
+        "fields": {
+          "name": "Nombre",
+          "email": "Correo electrónico",
+          "company": "Empresa",
+          "phone": "Teléfono",
+          "message": "Mensaje"
+        },
+        "budget": {
+          "legend": "Presupuesto",
+          "options": {
+            "25": "$25K - $50K",
+            "50": "$50K - $100K",
+            "100": "$100K - $150K",
+            "150": "Más de $150K"
+          }
+        },
+        "submitButton": "Trabajemos juntos"
+      },
+      "contactDetails": {
+        "ourOffices": "Nuestras oficinas",
+        "officeDescription": "Si prefieres interacciones cara a cara, nosotros no, pero nuestras direcciones están aquí debido a requisitos legales.",
+        "emailUs": "Envíanos un correo",
+        "emails": {
+          "careers": "Carreras",
+          "press": "Prensa"
+        },
+        "followUs": "Síguenos"
+      },
+      "metadata": {
+        "title": "Contáctanos",
+        "description": "Trabajemos juntos. No podemos esperar a saber de ti.",
+        "openGraph": {
+          "title": "Contáctanos",
+          "description": "Trabajemos juntos. No podemos esperar a saber de ti.",
+          "alt": "Contacta a Hestia Labs"
+        }
+      }
+    },
+    "about": {
+      "pageTitle": "Sobre Nosotros",
+      "pageDescription": "Nuestra fortaleza está en la innovación y la asociación.",
+      "pageIntro": {
+        "eyebrow": "Sobre nosotros",
+        "title": "Nuestra fortaleza está en la innovación y la asociación",
+        "description": "En Hestia Labs, creemos que nuestro éxito está arraigado en fuertes asociaciones con nuestros clientes. Trabajamos mano a mano para dar vida a sus ideas, colocando la colaboración, la creatividad y la tecnología en el corazón de todo lo que hacemos."
+      },
+      "details": {
+        "mission": "Hestia Labs se construyó con el deseo de hacer las cosas de manera diferente. Estamos comprometidos a crear soluciones de software de alta calidad sin comprometer la transparencia, la integridad o la innovación que nos impulsa.",
+        "team": "En Hestia Labs, somos más que un equipo — somos una familia. Valoramos la creatividad, la flexibilidad y un entorno de trabajo de apoyo, donde se alienta a cada miembro a dar lo mejor en cada proyecto, mientras mantiene un equilibrio saludable entre la vida personal y profesional."
+      },
+      "stats": {
+        "foundingBrothers": "2",
+        "clientSatisfaction": "100%",
+        "cupsOfCoffee": "Infinitas"
+      },
+      "culture": {
+        "eyebrow": "Nuestra cultura",
+        "title": "Fomentando la innovación mientras priorizamos el equilibrio.",
+        "description": "En Hestia Labs, creemos que nuestra fortaleza proviene de un equipo que está inspirado y equilibrado. Compartimos una pasión por la tecnología, la creatividad y construir un entorno de trabajo de apoyo.",
+        "values": {
+          "loyalty": "Nuestros miembros del equipo se quedan con nosotros porque están empoderados para crecer e innovar sin límites.",
+          "trust": "Confiamos en nuestro equipo para gestionar su tiempo de manera efectiva, asegurando un equilibrio saludable entre la productividad y la vida fuera del trabajo.",
+          "compassion": "Reconocemos que todos tienen una vida fuera de la oficina, y estamos comprometidos a proporcionar un entorno de apoyo para el crecimiento personal y profesional."
+        }
+      },
+      "metadata": {
+        "title": "Acerca de Hestia Labs LLC",
+        "description": "Aprende más sobre Hestia Labs LLC, nuestra misión y nuestro equipo.",
+        "openGraph": {
+          "title": "Acerca de Hestia Labs LLC",
+          "description": "Descubre la historia detrás de Hestia Labs y conoce al equipo que impulsa la innovación.",
+          "alt": "Acerca de Hestia Labs"
+        }
+      }
+    },
+  "landing": {
+    "pageTitle": "Página de Inicio",
+    "pageDescription": "Tu Visión, Nuestra Experiencia: Forjando el Futuro de la Tecnología",
+    "pageIntro": {
+      "eyebrow": "Bienvenido",
+      "title": "Tu Visión, Nuestra Experiencia",
+      "description": "En Hestia Labs, somos más que una agencia de ingeniería de software — somos tus socios en innovación. Nuestra misión es empoderar a las empresas con soluciones tecnológicas de vanguardia que impulsen el crecimiento y el éxito en un mundo digital en rápida evolución."
+    },
+    "services": {
+      "service1": {
+        "name": "Desarrollo de Software a Medida",
+        "description": "Entregamos soluciones de software personalizadas que satisfacen las necesidades únicas de tu negocio, garantizando escalabilidad y eficiencia."
+      },
+      "service2": {
+        "name": "Consultoría Técnica",
+        "description": "Nuestros expertos proporcionan orientación estratégica para optimizar tu stack tecnológico e impulsar la innovación."
+      },
+      "service3": {
+            "name": "Soluciones Globales de TI",
+            "description": "Ofrecemos servicios integrales de TI para apoyar las operaciones de su negocio en todo el mundo, mejorando la productividad y la seguridad."
+        }
+    },
+    "metadata": {
+      "title": "Hestia Labs LLC",
+      "description": "Empoderando a individuos y empresas con soluciones tecnológicas de vanguardia.",
+      "openGraph": {
+        "title": "Hestia Labs LLC",
+        "description": "Explora nuestras soluciones y servicios innovadores.",
+        "alt": " Inicio de Hestia Labs"
+      }
+    }
+  }, 
+    "footer": {
+      "company": "Compañía",
+      "connect": "Conectar",
+      "home": "Inicio",
+      "about": "Nosotros",
+      "contact": "Contáctanos",
+      "newsletter": {
+        "title": "Únete a nuestro boletín",
+        "description": "Mantente al día con las últimas ideas de diseño, artículos, recursos e inspiración.",
+        "placeholder": "Dirección de correo",
+        "submit": "Enviar"
+      },
+      "copyright": "© Hestia Labs LLC."
+    },
+    "header": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "contact": "Contacto"
+  }
+  
+}

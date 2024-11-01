@@ -1,0 +1,138 @@
+{
+  "contact": {
+    "pageTitle": "Contact Us",
+    "pageDescription": "Let's work together. We can't wait to hear from you.",
+    "pageIntro": {
+      "eyebrow": "Contact us",
+      "title": "Let's work together",
+      "description": "We can't wait to hear from you."
+    },
+    "contactForm": {
+      "workInquiries": "Work inquiries",
+      "fields": {
+        "name": "Name",
+        "email": "Email",
+        "company": "Company",
+        "phone": "Phone",
+        "message": "Message"
+      },
+      "budget": {
+        "legend": "Budget",
+        "options": {
+          "25": "$25K - $50K",
+          "50": "$50K - $100K",
+          "100": "$100K - $150K",
+          "150": "More than $150K"
+        }
+      },
+      "submitButton": "Let's work together"
+    },
+    "contactDetails": {
+      "ourOffices": "Our offices",
+      "officeDescription": "If you prefer face-to-face interactions, we don't, but our addresses are listed here due to legal requirements.",
+      "emailUs": "Email us",
+      "emails": {
+        "careers": "Careers",
+        "press": "Press"
+      },
+      "followUs": "Follow us"
+    },
+    "metadata": {
+      "title": "Contact Us",
+      "description": "Let's work together. We can't wait to hear from you.",
+      "openGraph": {
+        "title": "Contact Us",
+        "description": "Let's work together. We can't wait to hear from you.",
+        "alt": "Contact Hestia Labs"
+      }
+    }
+  },
+  "about": {
+    "pageTitle": "About Us",
+    "pageDescription": "Our strength is in innovation and partnership.",
+    "pageIntro": {
+      "eyebrow": "About us",
+      "title": "Our strength is in innovation and partnership",
+      "description": "At Hestia Labs, we believe that our success is rooted in strong partnerships with our clients. We work hand in hand to bring their ideas to life, placing collaboration, creativity, and technology at the heart of everything we do."
+    },
+    "details": {
+      "mission": "Hestia Labs was built on the desire to do things differently. We are committed to creating high-quality software solutions without compromising transparency, integrity, or the innovation that drives us.",
+      "team": "At Hestia Labs, we're more than just a team — we're a family. We value creativity, flexibility, and a supportive work environment, where each member is encouraged to bring their best to every project, while maintaining a healthy balance between personal and professional life."
+    },
+    "stats": {
+      "foundingBrothers": "2",
+      "clientSatisfaction": "100%",
+      "cupsOfCoffee": "Infinite"
+    },
+    "culture": {
+      "eyebrow": "Our culture",
+      "title": "Fostering innovation while prioritizing balance.",
+      "description": "At Hestia Labs, we believe that our strength comes from a team that is inspired and balanced. We share a passion for technology, creativity, and building a supportive work environment.",
+      "values": {
+        "loyalty": "Our team members stay with us because they're empowered to grow and innovate without limits.",
+        "trust": "We trust our team to manage their time effectively, ensuring a healthy balance between productivity and life outside work.",
+        "compassion": "We recognize that everyone has a life outside the office, and we're committed to providing a supportive environment for personal and professional growth."
+      }
+    },
+    "metadata": {
+      "title": "About Hestia Labs LLC",
+      "description": "Learn more about Hestia Labs LLC, our mission, and our team.",
+      "openGraph": {
+        "title": "About Hestia Labs LLC",
+        "description": "Discover the story behind Hestia Labs and meet the team driving innovation.",
+        "alt": "About Hestia Labs"
+      }
+    }
+  },
+  "landing":{
+    "pageTitle": "Landing Page",
+    "pageDescription": "Your Vision, Our Expertise: Crafting the Future of Technology",
+    "pageIntro": {
+      "eyebrow": "Welcome",
+      "title": "Your Vision, Our Expertise",
+      "description": "At Hestia Labs, we are more than just a software engineering agency — we are your partners in innovation. Our mission is to empower businesses with cutting-edge technology solutions that drive growth and success in a rapidly evolving digital world."
+    },
+    "services": {
+      "service1": {
+        "name": "Custom Software Development",
+        "description": "We deliver tailored software solutions that meet your unique business needs, ensuring scalability and efficiency."
+      },
+      "service2": {
+        "name": "Technical Consulting",
+        "description": "Our experts provide strategic guidance to optimize your technology stack and drive innovation."
+      },
+      "service3": {
+        "name": "Global IT Solutions",
+        "description": "We offer comprehensive IT services to support your business operations worldwide, enhancing productivity and security."
+      }
+    },
+    "metadata": {
+      "title": "Hestia Labs LLC",
+      "description": "Empowering individuals and businesses with cutting-edge technological solutions.",
+      "openGraph": {
+        "title": "Hestia Labs LLC",
+        "description": "Explore our innovative solutions and services.",
+        "alt": "Hestia Labs Logo"
+      }
+    }
+  },
+  "footer": {
+    "company": "Company",
+    "connect": "Connect",
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact us",
+    "newsletter": {
+      "title": "Join our newsletter",
+      "description": "Stay updated with the latest design insights, articles, resources, and inspiration.",
+      "placeholder": "Email address",
+      "submit": "Submit"
+    },
+    "copyright": "© Hestia Labs LLC."
+  },
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  }
+}
