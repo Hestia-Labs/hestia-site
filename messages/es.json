@@ -17,13 +17,13 @@
           "message": "Mensaje"
         },
         "budget": {
-          "legend": "Presupuesto",
-          "options": {
-            "25": "$25K - $50K",
-            "50": "$50K - $100K",
-            "100": "$100K - $150K",
-            "150": "Más de $150K"
-          }
+            "legend": "Presupuesto",
+            "options": {
+                "8k": "$8K - $15K",
+                "15k": "$15K - $30K",
+                "30k": "$30K - $50K",
+                "50k": "Mas de $50K"
+            }
         },
         "submitButton": "Trabajemos juntos"
       },
@@ -38,10 +38,10 @@
         "followUs": "Síguenos"
       },
       "metadata": {
-        "title": "Contáctanos",
+        "title": "Contáctanos | Hestia Labs",
         "description": "Trabajemos juntos. No podemos esperar a saber de ti.",
         "openGraph": {
-          "title": "Contáctanos",
+          "title": "Contáctanos | Hestia Labs",
           "description": "Trabajemos juntos. No podemos esperar a saber de ti.",
           "alt": "Contacta a Hestia Labs"
         }
@@ -64,6 +64,11 @@
         "clientSatisfaction": "100%",
         "cupsOfCoffee": "Infinitas"
       },
+      "statsLabels":{
+        "foundingBrothers": "Hermanos Fundadores",
+        "clientSatisfaction": "Satisfacción del cliente",
+        "cupsOfCoffee": "Tazas de café"
+      },
       "culture": {
         "eyebrow": "Nuestra cultura",
         "title": "Fomentando la innovación mientras priorizamos el equilibrio.",
@@ -75,10 +80,10 @@
         }
       },
       "metadata": {
-        "title": "Acerca de Hestia Labs LLC",
+        "title": "Nosotros | Hestia",
         "description": "Aprende más sobre Hestia Labs LLC, nuestra misión y nuestro equipo.",
         "openGraph": {
-          "title": "Acerca de Hestia Labs LLC",
+          "title": "Nosotros | Hestia",
           "description": "Descubre la historia detrás de Hestia Labs y conoce al equipo que impulsa la innovación.",
           "alt": "Acerca de Hestia Labs"
         }
@@ -107,28 +112,32 @@
         }
     },
     "metadata": {
-      "title": "Hestia Labs LLC",
+      "title": "Inicio | Hestia Labs ",
       "description": "Empoderando a individuos y empresas con soluciones tecnológicas de vanguardia.",
       "openGraph": {
-        "title": "Hestia Labs LLC",
+        "title": "Inicio | Hestia Labs ",
         "description": "Explora nuestras soluciones y servicios innovadores.",
         "alt": " Inicio de Hestia Labs"
       }
     }
   }, 
     "footer": {
-      "company": "Compañía",
-      "connect": "Conectar",
-      "home": "Inicio",
-      "about": "Nosotros",
-      "contact": "Contáctanos",
-      "newsletter": {
-        "title": "Únete a nuestro boletín",
-        "description": "Mantente al día con las últimas ideas de diseño, artículos, recursos e inspiración.",
-        "placeholder": "Dirección de correo",
-        "submit": "Enviar"
-      },
-      "copyright": "© Hestia Labs LLC."
+        "company": "Compañía",
+        "connect": "Conectar",
+        "home": "Inicio",
+        "about": "Nosotros",
+        "contact": "Contáctanos",
+        "newsletter": {
+        "title": "Suscríbete a nuestro boletín",
+        "description": "Mantente al día con nuestras últimas noticias y ofertas exclusivas.",
+        "placeholder": "Ingresa tu dirección de correo electrónico",
+        "submit": "Suscribirse",
+        "errorExists": "El correo electrónico ya existe en nuestra lista.",
+        "errorGeneric": "Ocurrió un error. Por favor, inténtalo de nuevo más tarde.",
+        "errorInvalidEmail": "Correo electrónico inválido o faltante. Por favor verifica e inténtalo de nuevo.",
+        "successMessage": "¡Suscripción exitosa!"
+        },
+        "copyright": "© Hestia Labs"
     },
     "header": {
     "home": "Inicio",

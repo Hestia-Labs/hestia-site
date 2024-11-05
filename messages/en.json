@@ -19,10 +19,10 @@
       "budget": {
         "legend": "Budget",
         "options": {
-          "25": "$25K - $50K",
-          "50": "$50K - $100K",
-          "100": "$100K - $150K",
-          "150": "More than $150K"
+            "8k": "$8K - $15K",
+            "15k": "$15K - $30K",
+            "30k": "$30K - $50K",
+            "50k": "More than $50K"
         }
       },
       "submitButton": "Let's work together"
@@ -38,10 +38,10 @@
       "followUs": "Follow us"
     },
     "metadata": {
-      "title": "Contact Us",
+      "title": "Contact Us | Hestia Labs",
       "description": "Let's work together. We can't wait to hear from you.",
       "openGraph": {
-        "title": "Contact Us",
+        "title": "Contact Us | Hestia Labs",
         "description": "Let's work together. We can't wait to hear from you.",
         "alt": "Contact Hestia Labs"
       }
@@ -64,6 +64,11 @@
       "clientSatisfaction": "100%",
       "cupsOfCoffee": "Infinite"
     },
+    "statsLabels": {
+      "foundingBrothers": "Founding Brothers",
+      "clientSatisfaction": "Client Satisfaction",
+      "cupsOfCoffee": "Cups of Coffee"
+    },
     "culture": {
       "eyebrow": "Our culture",
       "title": "Fostering innovation while prioritizing balance.",
@@ -75,10 +80,10 @@
       }
     },
     "metadata": {
-      "title": "About Hestia Labs LLC",
-      "description": "Learn more about Hestia Labs LLC, our mission, and our team.",
+      "title": "About | Hestia Labs",
+      "description": "Learn more about Hestia Labs, our mission, and our team.",
       "openGraph": {
-        "title": "About Hestia Labs LLC",
+        "title": "About | Hestia Labs",
         "description": "Discover the story behind Hestia Labs and meet the team driving innovation.",
         "alt": "About Hestia Labs"
       }
@@ -107,7 +112,7 @@
       }
     },
     "metadata": {
-      "title": "Hestia Labs LLC",
+      "title": "Home | Hestia Labs",
       "description": "Empowering individuals and businesses with cutting-edge technological solutions.",
       "openGraph": {
         "title": "Hestia Labs LLC",
@@ -123,12 +128,16 @@
     "about": "About",
     "contact": "Contact us",
     "newsletter": {
-      "title": "Join our newsletter",
-      "description": "Stay updated with the latest design insights, articles, resources, and inspiration.",
-      "placeholder": "Email address",
-      "submit": "Submit"
+      "title": "Subscribe to our Newsletter",
+      "description": "Stay updated with our latest news and exclusive offers.",
+      "placeholder": "Enter your email address",
+      "submit": "Subscribe",
+      "errorExists": "Email already exists in our list.",
+      "errorGeneric": "An error occurred. Please try again later.",
+      "errorInvalidEmail": "Invalid or missing email address. Please check and try again.",
+      "successMessage": "Subscription successful!"
     },
-    "copyright": "© Hestia Labs LLC."
+    "copyright": "© Hestia Labs"
   },
   "header": {
     "home": "Home",

@@ -9,6 +9,8 @@ type MetadataParams = {
   };
 };
 
+export const runtime = "edge";
+
 export async function generateMetadata({ params: { locale } }: MetadataParams) {
   const t = await getTranslations({ locale, namespace: 'landing' });
 
@@ -22,7 +24,7 @@ export async function generateMetadata({ params: { locale } }: MetadataParams) {
       siteName: "Hestia Labs",
       images: [
         {
-          url: "/hestia-logo.png",
+          url: "/hestia.png",
           width: 800,
           height: 600,
           alt: t('metadata.openGraph.alt'),
